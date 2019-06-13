@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Venta_De_Boletos:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Venta_De_Boletos_jar</output-path>
+    <root id="archive" name="Venta_De_Boletos.jar">
+      <element id="module-output" name="Venta_De_Boletos" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/4to semestre/Tópicos avanzados de programación/U4/mysql-connector-java-8.0.16/mysql-connector-java-8.0.16.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
